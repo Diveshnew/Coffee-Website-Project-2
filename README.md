@@ -2,8 +2,6 @@
 
 Welcome to the Coffee Website Project repository! This repository contains the code and assets for my one-page coffee shop website, featuring sections for Home, About, Menu, Products, Reviews, Contact, and Blogs.
 
-![Screenshot](screenshot.png)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -47,10 +45,7 @@ Feel free to customize this template to match your coffee shop's branding and co
 - **Images:** Replace the images in the `images` directory with high-quality photos of your coffee shop, menu items, and products.
 - **Blog Posts:** If you plan to have a blog section, create and replace the blog post content in the `blogs` directory.
 - **Social Media Links:** Add links to your coffee shop's social media profiles in the footer section.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+- **Images:** Remove the pictures i added because some of them have a very large size because of which the site will be a little slower.
 
 ## Contact
 
